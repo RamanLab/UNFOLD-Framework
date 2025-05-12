@@ -151,8 +151,8 @@ iii. Function `get_number_of_canalised_circuits_by_fcat_hd` to get the number of
 iv. Function `plot_freq_of_canalised_circuits_vs_sd_for_fcat` and `plot_freq_of_canalised_circuits_vs_sd_overall` to plot the above results
 
 
-
-
+Cite this repository:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15387089.svg)](https://doi.org/10.5281/zenodo.15387089)
 
 
 
